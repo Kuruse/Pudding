@@ -1,0 +1,8 @@
+###### Requirements without Version Specifiers ######
+requests
+
+
+discord==1.0.1
+discord-components==0.5.2.4
+discord-py-slash-command==1.2.0
+discord.py==1.7.2
