@@ -1,5 +1,5 @@
-# Pudding
-The name comes from the fact that I just ate a pudding.
+# Discord arrange images
+You can put together images as if you were posting a Twitter link.
 
 # How to use
 Please enter various information in config.ini before starting.
